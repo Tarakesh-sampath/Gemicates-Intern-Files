@@ -1,0 +1,4 @@
+https://github.com/Tarakesh-sampath/FaceDetection-MTCNN
+https://github.com/Tarakesh-sampath/Deep-Face-detection-tf-data_preparation
+https://github.com/Tarakesh-sampath/Finetuning-whisper-model-with-LoRA-int-8
+https://github.com/Tarakesh-sampath/Whisper_Dataset_generator
